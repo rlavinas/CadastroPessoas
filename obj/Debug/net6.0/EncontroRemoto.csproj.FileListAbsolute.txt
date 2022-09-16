@@ -1,0 +1,15 @@
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\bin\Debug\net6.0\EncontroRemoto.exe
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\bin\Debug\net6.0\EncontroRemoto.deps.json
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\bin\Debug\net6.0\EncontroRemoto.runtimeconfig.json
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\bin\Debug\net6.0\EncontroRemoto.dll
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\bin\Debug\net6.0\EncontroRemoto.pdb
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.csproj.AssemblyReference.cache
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.AssemblyInfoInputs.cache
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.AssemblyInfo.cs
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.csproj.CoreCompileInputs.cache
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.dll
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\refint\EncontroRemoto.dll
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.pdb
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\EncontroRemoto.genruntimeconfig.cache
+C:\Pessoal\Pessoal Rafael\Cursos\Senai\Git_Projetos\backend\EncontroRemoto\obj\Debug\net6.0\ref\EncontroRemoto.dll
