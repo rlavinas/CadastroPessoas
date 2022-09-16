@@ -16,7 +16,7 @@ namespace EncontroRemoto
         }
 
         public bool ValidarCNPJ(string CNPJ){
-            if (CNPJ.Length != 14 || CNPJ.Substring(8,4) != "0001"){
+            if (CNPJ.Length != 14 || CNPJ.Substring(CNPJ.Length - 6,4) != "0001"){
                 return false;
             } else {
                 return true;
