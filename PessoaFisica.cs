@@ -11,9 +11,19 @@ namespace EncontroRemoto
 
         public DateTime DataNascimento {get;set;}
 
-        public override void PagarImposto(float salario)
+        public override float PagarImposto(float salario)
         {
+            float imposto;
 
+            imposto = 0;
+
+            if (salario >= 1500.01F && salario <= 5000F) {
+                imposto = salario * 0.03F;
+            } else if (salario > 5000F) {
+                imposto = salario * 0.05F;
+            }
+
+            return imposto;
         }
 
         public bool ValidarDataNascimento(DateTime DataNasc){

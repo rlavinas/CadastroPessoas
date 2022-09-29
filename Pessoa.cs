@@ -11,10 +11,14 @@ namespace EncontroRemoto
         public string? Email {get;set;}
         public Endereco? Endereco {get;set;}
 
-        public abstract void PagarImposto(float salario);
+        public float Salario {get;set;}
+
+        public abstract float PagarImposto(float salario);
 
         public bool GravarRegistro() {
             return true;
         }
     }
 }
+
+// Pessoa física

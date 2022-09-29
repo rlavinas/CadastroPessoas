@@ -10,9 +10,19 @@ namespace EncontroRemoto
         public string? CNPJ {get;set;}
         public string? RazaoSocial {get;set;}
 
-        public override void PagarImposto(float salario)
+        public override float PagarImposto(float salario)
         {
+            float imposto;
 
+            imposto = salario * 0.06F;
+
+            if (salario >= 5000.01F && salario <= 10000F) {
+                imposto = salario * 0.08F;
+            } else if (salario > 10000F) {
+                imposto = salario * 0.10F;
+            }
+
+            return imposto;
         }
 
         public bool ValidarCNPJ(string CNPJ){
