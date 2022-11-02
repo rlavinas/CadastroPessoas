@@ -32,5 +32,9 @@ namespace EncontroRemoto
                 return true;
             }
         }
+
+        public override bool GravarRegistro(){
+            return true;
+        }
     }
 }

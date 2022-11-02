@@ -98,6 +98,7 @@ namespace EncontroRemoto
                             Console.WriteLine($"Cadastro Aprovado");
                             Console.WriteLine(novaPF.PagarImposto(novaPF.Salario));                            
                             ListPF.Add(novaPF);
+                            novaPF.GravarRegistro();
                         } else {
                             Console.WriteLine($"Cadastro Reprovado");
                         }

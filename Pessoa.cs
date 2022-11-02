@@ -15,9 +15,7 @@ namespace EncontroRemoto
 
         public abstract float PagarImposto(float salario);
 
-        public bool GravarRegistro() {
-            return true;
-        }
+        public abstract bool GravarRegistro();
     }
 }
 
